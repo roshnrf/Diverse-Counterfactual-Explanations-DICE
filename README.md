@@ -62,9 +62,9 @@ This implementation demonstrates the paper’s central idea:
 
 | Output | Description |
 |--------|-------------|
-| ![CF Comparison](outputs/diverse_cf_visualization.png) | 📊 Feature-wise bar chart showing 5 diverse CFs |
-| ![Metrics](outputs/metrics_table.png) | 📈 Metric comparison: validity, proximity, sparsity, diversity |
-| ![Text CFs](outputs/cf_text_explanations.png) | 🧾 Console output showing CFs at different proximity weights |
+| ![CF Comparison](diverse_cf_visualization.png) | 📊 Feature-wise bar chart showing 5 diverse CFs |
+| ![Metrics](metrics_table.png) | 📈 Metric comparison: validity, proximity, sparsity, diversity |
+| ![Text CFs](cf_text_explanations.png) | 🧾 Console output showing CFs at different proximity weights |
 
 
 ---
