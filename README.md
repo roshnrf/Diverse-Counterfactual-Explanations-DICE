@@ -8,6 +8,7 @@ This project explores how to generate **diverse, actionable counterfactuals** to
 
 - `notebook/dice1.ipynb` – Jupyter notebook implementing DiverseCF + evaluation
 - `outputs/` – Screenshots showing CF examples, metrics, and console output
+- `requirements.txt` – Python libraries used
 
 ---
 
