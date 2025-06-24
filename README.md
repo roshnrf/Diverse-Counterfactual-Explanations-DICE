@@ -80,10 +80,6 @@ This implementation demonstrates the paper’s central idea:
 ## 👨‍💻 Author
 
 **Roshan A Rauof**  
-B.Tech CSE (AI & ML Specialization)  
-VIT University, Chennai  
-📧 roshanabdlrf03@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/rosh003)
 
 ---
 
